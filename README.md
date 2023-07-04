@@ -1,3 +1,6 @@
+This is simple React project explaining how to add lazy loading in react app.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
